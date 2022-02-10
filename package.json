@@ -27,7 +27,7 @@
     "classnames": "^2.2.5",
     "foundation-symbol": "^0.1.4",
     "moment": "^2.23.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "prop-types": "^15.5.8",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
