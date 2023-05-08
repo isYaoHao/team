@@ -23,7 +23,7 @@
     "@icedesign/img": "^1.x",
     "@icedesign/layout": "^1.x",
     "@icedesign/theme": "^1.x",
-    "bizcharts": "^3.2.4",
+    "bizcharts": "^4.1.22",
     "classnames": "^2.2.5",
     "foundation-symbol": "^0.1.4",
     "moment": "^2.23.0",
